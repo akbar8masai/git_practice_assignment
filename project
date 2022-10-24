@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 let count=0;
 for(i=1;i<=num;i++)
 {if (num%i===0) {count++;
 }}
+=======
+ let count=0;
+ for(i=1;i<=num;i++)
+  {if (num%i===0) {count++;
+  }}
+ 
+  
+>>>>>>> 1f8995d8a3276e5e25bb285545607fd53a8f036b
